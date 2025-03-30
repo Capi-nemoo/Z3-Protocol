@@ -1,0 +1,8 @@
+Detected High-CPU Processes:
+
+Process Name: Python
+PID: 5213
+CPU Usage: 16.8%
+Memory Usage: 0.18053054809570312%
+Command Line: /Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python activity_monitor.py
+------------------------------------------------------------
